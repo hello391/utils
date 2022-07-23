@@ -1,0 +1,37 @@
+{
+    "name": "@yankovich/utils",
+    "version": "1.0.0",
+    "description": "Very customizable Economy, (Levels and more coming soon) framework for your Discord Bot",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "keywords": [
+        "discord",
+        "economy",
+        "discord-eco",
+        "discord-economy",
+        "bot",
+        "mongo",
+        "mongoose",
+        "discordjs",
+        "discord.js",
+        "djs",
+        "shop",
+        "work",
+        "rob",
+        "leaderboard",
+        "levels",
+        "level-system"
+    ],
+    "author": "Yankovich",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^6.1.1",
+        "pretty-ms": "^7.0.1"
+    }
+}
